@@ -96,7 +96,7 @@ More efficient search over a wider hyperparameter space.
   "min_samples_split": 4,
   "n_estimators": 124
 }
-
+```
 ## 📈 Visualizations
 
 Included visual outputs:
